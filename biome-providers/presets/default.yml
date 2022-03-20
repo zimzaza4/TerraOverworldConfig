@@ -46,7 +46,7 @@ biomes:
       - type: REPLACE
         from: todo
         to:
-          - MYSTERY_ZONE: 1
+          - EVERGREEN_FOREST: 1
         sampler:
           dimensions: 2
           type: CONSTANT
